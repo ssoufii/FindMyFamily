@@ -1,0 +1,33 @@
+# Xcode build output
+DerivedData/
+build/
+*.xcarchive
+
+# Xcode user state — never shared
+*.xcuserstate
+*.xcuserdatad
+.xcuserdata/
+xcuserdata/
+
+# Secrets — never committed, see README.md#secrets
+FindMyFamily/Config/Secrets.local.xcconfig
+
+# Signing and certificates
+*.p12
+*.mobileprovision
+*.cer
+*.certSigningRequest
+
+# CocoaPods (if ever used — SPM is preferred)
+Pods/
+Podfile.lock
+
+# Swift Package Manager resolved state is committed; build artifacts are not
+.build/
+SourcePackages/
+
+# macOS
+.DS_Store
+
+# Instruments
+*.trace

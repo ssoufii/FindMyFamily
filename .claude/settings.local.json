@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(gh api:*)",
-      "Bash(gh label:*)"
+      "Bash(gh label:*)",
+      "Bash(gh issue:*)",
+      "Read(//Users/salimsoufi/**)"
     ]
   }
 }
