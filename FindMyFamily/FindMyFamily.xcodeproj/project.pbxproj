@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		F9426B753028627D001F97CB /* FindMyFamily.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FindMyFamily.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F9426B86302869BC001F97CB /* FindMyFamily.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FindMyFamily.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F9426B773028627D001F97CB /* FindMyFamily */ = {
+		F9426B88302869BC001F97CB /* FindMyFamily */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = FindMyFamily;
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F9426B723028627D001F97CB /* Frameworks */ = {
+		F9426B83302869BC001F97CB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F9426B6C3028627D001F97CB = {
+		F9426B7D302869BC001F97CB = {
 			isa = PBXGroup;
 			children = (
-				F9426B773028627D001F97CB /* FindMyFamily */,
-				F9426B763028627D001F97CB /* Products */,
+				F9426B88302869BC001F97CB /* FindMyFamily */,
+				F9426B87302869BC001F97CB /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F9426B763028627D001F97CB /* Products */ = {
+		F9426B87302869BC001F97CB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F9426B753028627D001F97CB /* FindMyFamily.app */,
+				F9426B86302869BC001F97CB /* FindMyFamily.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,63 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F9426B743028627D001F97CB /* FindMyFamily */ = {
+		F9426B85302869BC001F97CB /* FindMyFamily */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F9426B7C3028629E001F97CB /* Build configuration list for PBXNativeTarget "FindMyFamily" */;
+			buildConfigurationList = F9426B91302869C0001F97CB /* Build configuration list for PBXNativeTarget "FindMyFamily" */;
 			buildPhases = (
-				F9426B713028627D001F97CB /* Sources */,
-				F9426B723028627D001F97CB /* Frameworks */,
-				F9426B733028627D001F97CB /* Resources */,
+				F9426B82302869BC001F97CB /* Sources */,
+				F9426B83302869BC001F97CB /* Frameworks */,
+				F9426B84302869BC001F97CB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				F9426B773028627D001F97CB /* FindMyFamily */,
+				F9426B88302869BC001F97CB /* FindMyFamily */,
 			);
 			name = FindMyFamily;
 			packageProductDependencies = (
 			);
 			productName = FindMyFamily;
-			productReference = F9426B753028627D001F97CB /* FindMyFamily.app */;
+			productReference = F9426B86302869BC001F97CB /* FindMyFamily.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F9426B6D3028627D001F97CB /* Project object */ = {
+		F9426B7E302869BC001F97CB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2630;
 				LastUpgradeCheck = 2630;
 				TargetAttributes = {
-					F9426B743028627D001F97CB = {
+					F9426B85302869BC001F97CB = {
 						CreatedOnToolsVersion = 26.3;
 					};
 				};
 			};
-			buildConfigurationList = F9426B703028627D001F97CB /* Build configuration list for PBXProject "FindMyFamily" */;
+			buildConfigurationList = F9426B81302869BC001F97CB /* Build configuration list for PBXProject "FindMyFamily" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = F9426B6C3028627D001F97CB;
+			mainGroup = F9426B7D302869BC001F97CB;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = F9426B763028627D001F97CB /* Products */;
+			productRefGroup = F9426B87302869BC001F97CB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F9426B743028627D001F97CB /* FindMyFamily */,
+				F9426B85302869BC001F97CB /* FindMyFamily */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F9426B733028627D001F97CB /* Resources */ = {
+		F9426B84302869BC001F97CB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -114,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F9426B713028627D001F97CB /* Sources */ = {
+		F9426B82302869BC001F97CB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -124,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		F9426B783028627D001F97CB /* Debug */ = {
+		F9426B8F302869C0001F97CB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -187,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		F9426B793028627D001F97CB /* Release */ = {
+		F9426B90302869C0001F97CB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -243,7 +244,7 @@
 			};
 			name = Release;
 		};
-		F9426B7A3028627D001F97CB /* Debug */ = {
+		F9426B92302869C0001F97CB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -274,7 +275,7 @@
 			};
 			name = Debug;
 		};
-		F9426B7B3028627D001F97CB /* Release */ = {
+		F9426B93302869C0001F97CB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -308,25 +309,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F9426B703028627D001F97CB /* Build configuration list for PBXProject "FindMyFamily" */ = {
+		F9426B81302869BC001F97CB /* Build configuration list for PBXProject "FindMyFamily" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F9426B783028627D001F97CB /* Debug */,
-				F9426B793028627D001F97CB /* Release */,
+				F9426B8F302869C0001F97CB /* Debug */,
+				F9426B90302869C0001F97CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F9426B7C3028629E001F97CB /* Build configuration list for PBXNativeTarget "FindMyFamily" */ = {
+		F9426B91302869C0001F97CB /* Build configuration list for PBXNativeTarget "FindMyFamily" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F9426B7A3028627D001F97CB /* Debug */,
-				F9426B7B3028627D001F97CB /* Release */,
+				F9426B92302869C0001F97CB /* Debug */,
+				F9426B93302869C0001F97CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F9426B6D3028627D001F97CB /* Project object */;
+	rootObject = F9426B7E302869BC001F97CB /* Project object */;
 }
